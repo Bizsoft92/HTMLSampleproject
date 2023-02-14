@@ -14,7 +14,7 @@
   </head>
   <body>
     <?php
-    test 1
+     echo "test 1"
       ?>
   </body>
 </html>
